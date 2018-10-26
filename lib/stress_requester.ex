@@ -1,0 +1,2 @@
+defmodule StressRequester do
+end
